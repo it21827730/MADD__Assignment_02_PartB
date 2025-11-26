@@ -130,5 +130,3 @@ Possible Future Enhancements
 •	Support fully custom session durations.
 •	Add basic statistics (total time meditated, streaks).
 •	Localize text for multiple languages.
-
-If you want, I can also create the README.md file directly in the project folder with this content.
